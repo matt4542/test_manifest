@@ -5,7 +5,7 @@
            review="review.source.android.com" />
 
   <remote  name="github"
-           fetch="git://github.com/matt4542/" />
+           fetch="git://github.com/omgb" />
 
    <remote  name="cyan"
            fetch="git://github.com/CyanogenMod/" />
