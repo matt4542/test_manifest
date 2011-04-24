@@ -176,7 +176,7 @@
   <project path="system/wlan/ti" name="system_wlan_ti" remote="github" revision="master"/>
   <project path="vendor/htc" name="vendor_htc" remote="github" revision="master"/>
   <project path="vendor/omgb" name="vendor_omgb" remote="github" revision="master"/>
-  <project path="packages/apps/Superuser" name="android_packages_apps_Superuser" remote="cm" revision="gingerbread"/>
+  <project path="packages/apps/Superuser" name="android_packages_apps_Superuser" remote="cyan" revision="gingerbread"/>
   <project path="manifest" name="manifest" remote="github" revision="master"/>
 
 </manifest>
