@@ -14,7 +14,7 @@
 	   revision="gingerbread"
 	   remote="korg" />
 
-  <project path="build" name="platform/build" />
+  <project path="build" name="platform/build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="bionic" name="platform/bionic" />
